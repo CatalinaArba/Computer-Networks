@@ -37,7 +37,6 @@ while playing:
         playing = False
         print("Exit while")
     time.sleep(5)
-
 client.close()
 if answer == 'W':
     print("I am the winner")
